@@ -37,4 +37,3 @@ npm run build
 ```sh
 npm run test:unit
 ```
-# vue-sample-project
